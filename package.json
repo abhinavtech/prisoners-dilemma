@@ -2,6 +2,7 @@
   "name": "prisoners-dilemma-game",
   "version": "1.0.0",
   "description": "A React-based Prisoner's Dilemma game with multiple strategies",
+  "homepage": "https://abhinavtech.github.io/prisoners-dilemma",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
